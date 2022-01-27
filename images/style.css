@@ -1,0 +1,34 @@
+h1{
+    color:purple;
+}
+.container{
+    display :flex ;
+    justify-content: center;
+
+    
+}
+html{
+    width:900px;
+    font-family:sparatan;
+    margin:30px 30px;
+
+}
+.card{
+    align-items: space-between;
+    margin-top: 10px;
+    background-color:purple;
+    color: white;
+}
+.fa{
+    
+    margin-right: 30px;
+    margin-top: 5;
+    margin-bottom: 5;
+}
+.con{
+    background-color: white;
+    color: gold;
+}
+.checked{
+    color: orange;
+}
